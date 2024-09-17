@@ -1,6 +1,6 @@
 let currentQuestionIndex = 0;
 const questions = [
-    { question: "Qual é o número de 0 a 10 em inglês para 'quarenta e cinco'?", answer: "forty-five" },
+    { question: "Qual é o número de 0 a 10 em inglês para 'quarenta e cinco'?", answer: "forty five" },
     { question: "Como você diz 'canadense' em inglês?", answer: "Canadian" },
     { question: "Qual é o adjetivo que descreve algo pequeno?", answer: "small" },
     { question: "Como você diz 'francês' em inglês?", answer: "French" },
@@ -16,10 +16,10 @@ const questions = [
     { question: "Como você diz 'mexicano' em inglês?", answer: "Mexican" },
     { question: "Qual é o adjetivo que descreve algo muito antigo?", answer: "old" },
     { question: "Como você diz 'irmã' em inglês?", answer: "sister" },
-    { question: "Qual é o número de 0 a 10 em inglês para 'sessenta e cinco'?", answer: "sixty-five" },
+    { question: "Qual é o número de 0 a 10 em inglês para 'sessenta e cinco'?", answer: "sixty five" },
     { question: "Como você diz 'argentino' em inglês?", answer: "Argentine" },
     { question: "Qual é o termo em inglês para o membro da família que é o pai da mãe?", answer: "grandfather" },
-    { question: "Qual é o número de 0 a 10 em inglês para 'vinte e cinco'?", answer: "twenty-five" },
+    { question: "Qual é o número de 0 a 10 em inglês para 'vinte e cinco'?", answer: "twenty five" },
     { question: "Como você diz 'inglês' em inglês?", answer: "English" },
     { question: "Qual é o adjetivo que descreve algo confortável?", answer: "comfortable" },
     { question: "Como você diz 'cachorro' em inglês?", answer: "dog" },
@@ -30,10 +30,10 @@ const questions = [
     { question: "Como você diz 'português' em inglês?", answer: "Portuguese" },
     { question: "Qual é o adjetivo que descreve algo novo?", answer: "new" },
     { question: "Como você diz 'avô' em inglês?", answer: "grandfather" },
-    { question: "Qual é o número de 0 a 10 em inglês para 'noventa e cinco'?", answer: "ninety-five" },
+    { question: "Qual é o número de 0 a 10 em inglês para 'noventa e cinco'?", answer: "ninety five" },
     { question: "Como você diz 'suiço' em inglês?", answer: "Swiss" },
     { question: "Qual é o termo em inglês para o membro da família que é a mãe do pai?", answer: "grandmother" },
-    { question: "Qual é o número de 0 a 10 em inglês para 'trinta e dois'?", answer: "thirty-two" },
+    { question: "Qual é o número de 0 a 10 em inglês para 'trinta e dois'?", answer: "thirty two" },
     { question: "Como você diz 'brasileiro' em inglês?", answer: "Brazilian" },
     { question: "Qual é o adjetivo que descreve algo bonito?", answer: "beautiful" },
     { question: "Como você diz 'irmão' em inglês?", answer: "brother" }
